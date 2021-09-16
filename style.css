@@ -1,0 +1,22 @@
+body {
+
+    color: #2b2929;
+}
+
+.jumbotron {
+  background-image: url("./images/belly_button.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  border: 5px;
+  border-color: rgb(66, 118, 185);
+  border-style:solid;
+}
+
+.jumbotron h1{
+  color: white;
+  font-family: "copperplate", fantasy;
+}
+
+.jumbotron p{
+  color: white;
+}
