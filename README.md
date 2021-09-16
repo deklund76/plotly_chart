@@ -1,1 +1,3 @@
-# plotly_chart
+# Plotly Charts and Belly Button Biodiversity
+
+The following repository contains files for creating a web-page that displays data on bacteria bio-diversity based on samples collected from study participants' navels. Said data is all charted using Plotly. The bar graph shows the top 10 most common bacteria and their frequencies. The frequency of all different bacteria is displayed in the bubble chart with larger bubbles indicating more prevelant bacteria. The gauge chart shows how often the study participant washes their navel, this is expected to affect the biodiversity of microg-organisms there. Each study participant is identified by ID numbers to keep their personal information confidential. To view different participants data, select their ID from the dropdown menu in the upper left.
